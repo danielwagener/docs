@@ -1,8 +1,8 @@
-# Table of Contents
+# Summary
 
-* [Introduction](README.md)
+* [Read Me](README.md)
 
-## [Intercom for JIRA](/add-ons/intercom/README.md)
+## Intercom for JIRA
 
 * [Getting Started](/add-ons/intercom/GettingStarted.md)
 * [Features](/add-ons/intercom/Features.md)
