@@ -1,8 +1,6 @@
 # ToolsPlus Documentation
 
-## Atlassian Add-ons
-
-### JIRA Cloud
+## JIRA Cloud
 
 * [Intercom for JIRA](/addons/intercom/README.md)
 
