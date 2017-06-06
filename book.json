@@ -1,18 +1,20 @@
 {
-    "plugins": [ "theme-api" ],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-        }
+  "gitbook": "3.2.2",
+  "title": "Docs",
+  "plugins": ["edit-link", "prism", "-highlight", "github", "anchorjs", "algolia"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/toolsplus/docs/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/toolsplus"
+    },
+    "algolia": {
+      "index": "toolsplus-docs",
+      "applicationID": "JFAP5MNVW7",
+      "publicKey": "c259b55f03dd4ffa07ee3cff177a3834",
+      "freeAccount": "true"
     }
+  }
 }
