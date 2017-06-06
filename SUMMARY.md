@@ -2,7 +2,7 @@
 
 * [Read Me](README.md)
 
-## Intercom for JIRA
+## [Intercom for JIRA](/addons/intercom/README.md)
 
 * [Getting Started](/add-ons/intercom/GettingStarted.md)
 * [Features](/add-ons/intercom/Features.md)
