@@ -1,10 +1,10 @@
-# Summary
-
-## Overview
+# Table of Contents
 
 * [Introduction](README.md)
 
-## Methods
+## [Intercom for JIRA](/add-ons/intercom/README.md)
 
-* [Defining Methods](methods.md)
+* [Getting Started](/add-ons/intercom/GettingStarted.md)
+* [Features](/add-ons/intercom/Features.md)
+* [Glossary](/add-ons/intercom/Glossary.md)
 
