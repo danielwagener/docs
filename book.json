@@ -1,7 +1,7 @@
 {
   "gitbook": "3.2.2",
   "title": "Docs",
-  "plugins": ["edit-link", "prism", "-highlight", "github", "anchorjs", "algolia"],
+  "plugins": ["edit-link", "github", "anchorjs", "algolia"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/toolsplus/docs/tree/master",
