@@ -4,7 +4,7 @@
 
 ## [Intercom for JIRA](/addons/intercom/README.md)
 
-* [Getting Started](/add-ons/intercom/GettingStarted.md)
-* [Features](/add-ons/intercom/Features.md)
-* [Glossary](/add-ons/intercom/Glossary.md)
+* [Getting Started](/addons/intercom/GettingStarted.md)
+* [Features](/addons/intercom/Features.md)
+* [Glossary](/addons/intercom/Glossary.md)
 
