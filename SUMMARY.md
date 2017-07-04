@@ -2,7 +2,7 @@
 
 * [Read Me](README.md)
 
-## [Add-ons](/addons/READEME.md)
+## [Add-ons](/addons/README.md)
 
 ### [Intercom for JIRA](/addons/intercom/README.md)
 
