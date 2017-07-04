@@ -1,6 +1,6 @@
 {
   "gitbook": "3.2.2",
-  "title": "Docs",
+  "title": "ToolsPlus Docs",
   "plugins": ["edit-link", "github", "anchorjs", "algolia"],
   "pluginsConfig": {
     "edit-link": {
