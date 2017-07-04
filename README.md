@@ -4,7 +4,7 @@
 
 * [Intercom for JIRA](/addons/intercom/README.md)
 
-## Support, Feedback & Contact
+## Support, Feedback
 
 We'd love to hear from you, whether it's about a project or questions for us.
 
