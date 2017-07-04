@@ -16,5 +16,7 @@ Contact us, we are happy to help.
 
 ## Feedback
 
-Let us know how we can make this product work better for you. We highly value your feedback to make this a better product. Contact us at [support@toolsplus.ch](mailto:support@toolsplus.ch)
+Let us know how we can make this product work better for you. We highly value your feedback to continuously improve.
+
+Contact us at [support@toolsplus.ch](mailto:support@toolsplus.ch) or please consider leaving a review on the [Atlassian Marketplace listing](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/reviews).
 
