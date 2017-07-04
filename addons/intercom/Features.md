@@ -20,3 +20,6 @@ For any matched contact in the Intercom panel you can jump to the respective Int
 
 If Intercom for JIRA could not find a matching Intercom User or Contact you will have the option to create a User or Lead from the issue reporter.
 
+## Additional features
+
+Are you looking for a feature not covered here? Please contact us at [support@toolsplus.ch](mailto:support@toolsplus.ch) to discuss any potential additions.
