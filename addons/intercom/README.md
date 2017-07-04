@@ -1,8 +1,8 @@
 # Intercom for JIRA
 
-With [Intercom](https://www.intercom.com/) for JIRA you have your Intercom data at your fingertips - whenever you need it.
+Have your Intercom data at your fingertips with [Intercom](https://www.intercom.com/) for JIRA.
 
-Intercom for JIRA helps you to work with Intercom data right inside of JIRA or JIRA Service Desk without having to leave the application context. And if your workflow requires you to change systems, the same Intercom context is just one click away.
+Intercom for JIRA allows you to work with Intercom data right inside of JIRA or JIRA Service Desk without having to leave the current context. And if your workflow requires you to change systems, the same Intercom context is just one click away.
 
 ### Supported JIRA products
 
@@ -12,7 +12,7 @@ All JIRA products, including JIRA Service Desk.
 
 Contact us, we are happy to help.
 
-:email: [support@toolsplus.ch](#)
+:shipit: [support@toolsplus.ch](#)
 
 ## Feedback
 
