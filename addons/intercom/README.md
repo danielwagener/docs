@@ -12,11 +12,9 @@ All JIRA products, including JIRA Service Desk.
 
 Contact us, we are happy to help.
 
-:shipit: [support@toolsplus.ch](#)
+[support@toolsplus.ch](mailto:support@toolsplus.ch)
 
 ## Feedback
 
-Let us know how we can make this product work better for you. We highly value your feedback to make this a better product together. Contact us at
-
-[support@toolsplus.ch](mailto:support@toolsplus.ch)
+Let us know how we can make this product work better for you. We highly value your feedback to make this a better product. Contact us at [support@toolsplus.ch](mailto:support@toolsplus.ch)
 
