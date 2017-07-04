@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Read Me](README.md)
+* [Home](README.md)
 
 * [Intercom for JIRA](/addons/intercom/README.md)
     * [Getting Started](/addons/intercom/GettingStarted.md)
