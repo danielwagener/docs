@@ -3,6 +3,7 @@
 ## Add-ons
 
 * [Intercom for JIRA](/addons/intercom/README.md)
+* more coming soon
 
 ## Support, Feedback
 
