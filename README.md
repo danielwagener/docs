@@ -1,4 +1,4 @@
-# ToolsPlus Documentation
+# <a href='http://docs.toolsplus.ch'><img src='/assets/toolsplus-logo.png' height='60'></a>
 
 ## Add-ons
 
