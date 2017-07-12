@@ -4,6 +4,8 @@
 
 * [Intercom for JIRA](/addons/intercom/README.md)
     * [Getting Started](/addons/intercom/GettingStarted.md)
-    * [Features](/addons/intercom/Features.md)
+    * [Intercom Issue Panel](/addons/intercom/IntercomIssuePanel.md)
     * [Glossary](/addons/intercom/Glossary.md)
 
+* [Support](/pages/support.md)
+* [Contact](/pages/contact.md)

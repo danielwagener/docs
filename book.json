@@ -1,7 +1,10 @@
 {
   "gitbook": "3.2.2",
   "title": "ToolsPlus Docs",
-  "plugins": ["edit-link", "github", "anchorjs", "algolia"],
+  "plugins": ["styles-less", "edit-link", "github", "anchorjs", "algolia", "alerts", "intercom"],
+  "styles": {
+    "website": "./styles/website.less"
+  },
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/toolsplus/docs/tree/master",
@@ -15,6 +18,9 @@
       "applicationID": "JFAP5MNVW7",
       "publicKey": "c259b55f03dd4ffa07ee3cff177a3834",
       "freeAccount": "true"
+    },
+    "intercom": {
+      "token": "g13v4ntd"
     }
   }
 }

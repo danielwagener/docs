@@ -1,4 +1,4 @@
-# <a href='http://docs.toolsplus.ch'><img src='/assets/toolsplus-logo.png' height='60'></a>
+# <img src='/assets/logo.png' height='32'> ToolsPlus Docs
 
 Here you can find documentation of all our products. 
 
@@ -6,17 +6,3 @@ Here you can find documentation of all our products.
 
 * [Intercom for JIRA](/addons/intercom/README.md)
 * more coming soon
-
-## Support, Feedback
-
-We'd love to hear from you, whether it's about a project or questions for us.
-
-[support@toolsplus.ch](mailto:support@toolsplus.ch)
-
-## Contact
-
-[www.tooslplus.ch](http://www.toolsplus.ch)
-
-[info@toolsplus.ch](mailto:info@toolsplus.ch)
-
-
