@@ -6,6 +6,7 @@
     * [Getting Started](/addons/intercom/GettingStarted.md)
     * [Intercom Issue Panel](/addons/intercom/IntercomIssuePanel.md)
     * [Glossary](/addons/intercom/Glossary.md)
+    * [Security Statement](/addons/intercom/SecurityStatement.md)
 
 * [Support](/pages/support.md)
 * [Contact](/pages/contact.md)
