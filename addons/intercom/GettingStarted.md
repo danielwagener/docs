@@ -2,15 +2,15 @@
 
 ## Installation
 
-1. Log into your JIRA Cloud instance.
-2. Click the admin dropdown and choose **Add-ons**.
+1. Log into your JIRA instance as an admin.
+1. Click the admin dropdown and choose **Add-ons**.
    The Find new add-ons screen loads.
-3. Search for **Intercom for JIRA**.
-4. Click **Free trial** to install your add-on.
+1. Locate **Intercom for JIRA**.
+1. Click **Free trial** to download and install your add-on.
 
-That's it.
+You're all set!
 
-From here proceed with the setup of your Intercom connection.
+Proceed with the setup of your Intercom connection.
 
 ## Setup a Connection to Intercom
 
@@ -19,26 +19,43 @@ Intercom app.
 
 1. Click the admin dropdown and choose **Projects**.
 
-2. Click the project for which you would like to set up an Intercom connection.
+1. Click the project for which you would like to set up an Intercom connection.
 
-3. In the left sidebar, click on **Intercom integration**.
+1. In the left sidebar, click on **Intercom integration**.
 
-4. Then click the button **Connect with Intercom**.
+1. Then click the button **Connect with Intercom**.
+
+   ![Local Image](/assets/addons/intercom/ConnectToIntercom.png)
    
-   This will redirect you to the Intercom OAuth page, where you will be asked for
-   permission to link JIRA to Intercom.
+   This will redirect you to the Intercom OAuth page, where you will be asked to
+   log into Intercom (if you haven't done so already) and then for permission to 
+   link JIRA to Intercom.
    
    > **[info] Note**
    >
-   > The Intercom user used to authenticate the connection will be usable by all
-   > JIRA users of this project. This means, every interactions with 
+   > The Intercom user you use to authenticate the connection will be shared by all
+   > JIRA users of this project. Every interactions with 
    > Intercom happens on behalf of this particular Intercom user.
    > 
    > If you do not want to use your personal Intercom account, consider setting 
    > up a Intercom user specifically for this add-on.
+   >
+   > See [Intercom Documentation](https://docs.intercom.com/faqs-and-troubleshooting/your-team-inbox/how-do-i-add-or-delete-a-teammate) on how to add a new teammate.
    
-5. Click **Connect** to continue. The OAuth page closes automatically and the 
+1. On the top right of the OAuth page select the Intercom app you would like
+   to connect to. 
+   
+   ![Local Image](/assets/addons/intercom/IntercomOAuthPage.png)
+   
+1. Click **Connect** to continue. The OAuth page closes automatically and the 
    Intercom connection status changes to _Connected_.
+   
+   ![Local Image](/assets/addons/intercom/IntercomConnected.png)
+   
+   When connected the connection details show which Intercom app you are 
+   connected to and which user has been used to authorize the connection. 
+   Clicking on the app or user name brings you straight to the respective 
+   Intercom page.
 
 ## What's next?
 

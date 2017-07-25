@@ -8,6 +8,8 @@ requires you to change systems, Intercom is just one click away.
 
 [Let's get started](GettingStarted.md)
 
+![Local Image](/assets/addons/intercom/Banner.jpeg) 
+
 ### Supported JIRA products
 
 All JIRA products, including JIRA Service Desk.

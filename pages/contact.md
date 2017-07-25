@@ -1,4 +1,4 @@
-# Contact
+# Get in Touch
 
 Contact us using Intercom messenger at the bottom right of this page or send us 
 an email.

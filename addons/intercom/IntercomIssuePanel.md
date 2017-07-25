@@ -11,15 +11,21 @@ reporter's email address against any Intercom User or Lead email addresses.
  
 * If there is only _one match_ you will see the Intercom user directly showing on
   the Intercom panel.
+  
+  ![Local Image](/assets/addons/intercom/IntercomPanel.png)
 
 * If there is _more then one match_ a list of Users and Leads will be shown with
   a button to see each [Contact's](Glossary.md#def-contacts) details.
+  
+  ![Local Image](/assets/addons/intercom/IntercomPanelMultiContacts.png)
   
 ### Open Intercom with current Context
 
 For any matched contact in the Intercom panel you can jump to the respective 
 Intercom contact with a single click. Use the link button to load Intercom in a 
-new tab.
+new tab or simply click the Contact's name.
+
+![Local Image](/assets/addons/intercom/IntercomPanelOpenLink.png)
 
 ### Create Intercom User or Lead from Issue reporter
 
@@ -29,6 +35,8 @@ be given the option to create a User or Lead from the issue reporter.
 Simply click **Create** and select **User** or **Lead** depending on which one 
 you would like to create. As soon as creation is complete the Intercom panel
 reloads and the created contact is shown.
+
+![Local Image](/assets/addons/intercom/IntercomPanelNoMatch.png)
 
 ### Additional features
 
