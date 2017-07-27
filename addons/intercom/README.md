@@ -10,9 +10,15 @@ requires you to change systems, Intercom is just one click away.
 
 ![Local Image](/assets/addons/intercom/Banner.jpeg) 
 
-### Supported JIRA products
+### Supported Products
 
-All JIRA products, including JIRA Service Desk.
+![Local Image](/assets/atlassian/products/jiraCore.png)
+
+![Local Image](/assets/atlassian/products/jiraServiceDesk.png)
+ 
+![Local Image](/assets/atlassian/products/jiraSoftware.png)
+
+All JIRA products, including JIRA Service Desk. 
 
 ## Support
 
