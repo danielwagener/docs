@@ -1,7 +1,7 @@
 {
   "gitbook": "3.2.2",
   "title": "ToolsPlus Docs",
-  "plugins": ["styles-less", "edit-link", "github", "anchorjs", "algolia", "alerts", "intercom"],
+  "plugins": ["styles-less", "edit-link", "github", "anchorjs", "algolia", "alerts", "intercom", "-highlight"],
   "styles": {
     "website": "./styles/website.less"
   },
