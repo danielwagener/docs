@@ -12,11 +12,11 @@ requires you to change systems, Intercom is just one click away.
 
 ### Supported Products
 
-![Local Image](/assets/atlassian/products/jiraCore.png)
+![Local Image](/assets/atlassian/products/JiraCore.png)
 
-![Local Image](/assets/atlassian/products/jiraServiceDesk.png)
+![Local Image](/assets/atlassian/products/JiraServiceDesk.png)
  
-![Local Image](/assets/atlassian/products/jiraSoftware.png)
+![Local Image](/assets/atlassian/products/JiraSoftware.png)
 
 All JIRA products, including JIRA Service Desk. 
 
