@@ -1,7 +1,7 @@
 {
   "gitbook": "3.2.2",
   "title": "ToolsPlus Docs",
-  "plugins": ["styles-less", "edit-link", "github", "anchorjs", "algolia", "alerts", "intercom", "-highlight"],
+  "plugins": ["styles-less", "edit-link", "github", "anchorjs", "algolia", "alerts", "intercom", "ga", "-highlight"],
   "styles": {
     "website": "./styles/website.less"
   },
@@ -21,6 +21,9 @@
     },
     "intercom": {
       "token": "g13v4ntd"
+    },
+    "ga": {
+      "token": "UA-99242631-4"
     }
   }
 }
