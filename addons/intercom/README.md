@@ -15,7 +15,7 @@ when it's time to get back to the customer.
 
 * [Intercom Contact Matching](IntercomIssuePanel.md#contact-matching)
 * [Conversation Linking](ConversationLinking.md)
-* Configurable visible Intercom fields
+* [Configurable Visible Intercom Fields](ConfigureConnection.html#configure-visible-fields)
 
 [Let's get started](GettingStarted.md)
 
@@ -23,11 +23,17 @@ when it's time to get back to the customer.
 
 ### Supported Products
 
+All **JIRA Cloud** products are supported:
+
 ![JIRA Core](/assets/atlassian/products/JiraCore.png)
 
 ![JIRA Service Desk](/assets/atlassian/products/JiraServiceDesk.png)
  
 ![JIRA Software](/assets/atlassian/products/JiraSoftware.png)
+
+If you are looking for **JIRA Server** version of this add-on please let us know 
+at [support@toolsplus.ch](mailto:support@toolsplus.ch) so we can track demand and 
+consider a version for JIRA Server.  
 
 ## Atlassian Marketplace
 
