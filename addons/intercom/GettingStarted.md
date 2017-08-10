@@ -60,4 +60,5 @@ Intercom app.
 ## What's next?
 
 * [Configure Intercom Connection](ConfigureConnection.md) 
+* [Using Conversation Linking](ConversationLinking.md)
 * [Using the Intercom Issue Panel](IntercomIssuePanel.md)

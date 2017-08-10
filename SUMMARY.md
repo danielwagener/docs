@@ -5,6 +5,7 @@
 * [Intercom for JIRA](/addons/intercom/README.md)
     * [Getting Started](/addons/intercom/GettingStarted.md)
     * [Configure Intercom Connection](/addons/intercom/ConfigureConnection.md)
+    * [Conversation Linking](/addons/intercom/ConversationLinking.md)
     * [Intercom Issue Panel](/addons/intercom/IntercomIssuePanel.md)
     * [Glossary](/addons/intercom/Glossary.md)
     * [Security Statement](/addons/intercom/SecurityStatement.md)

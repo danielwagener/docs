@@ -1,5 +1,17 @@
 # Intercom Issue Panel
 
+Some of your customers might use JIRA Service Desk to report issues. At the same
+time this same customer contacted you previously via the Intercom messenger on
+your homepage.
+
+The Intercom Issue Panel allows you to display Intercom Contacts next to your JIRA
+issue by auto-matching the issue reporter's email address against your Intercom
+Users and Leads. Matching contacts show up automatically and give you useful Intercom
+information about the issue reporter.
+
+If on the other hand no matching contact could be found you can easily create a
+Intercom User or Lead from the JIRA issue reporter.
+
 > **[info] Prerequisites**
 >
 > * [Authorized Intercom Connection](GettingStarted.md)
@@ -38,7 +50,6 @@ reloads and the created contact is shown.
 
 ![Local Image](/assets/addons/intercom/IntercomPanelNoMatch.png)
 
-### Additional features
+## What's next?
 
-Are you looking for a feature not covered here? Please do [contact us](/pages/contact.md) 
-to discuss potential additions.
+* [Using Conversation Linking](ConversationLinking.md)

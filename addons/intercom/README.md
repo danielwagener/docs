@@ -1,24 +1,37 @@
 # Intercom for JIRA
 
-Have your Intercom data at your fingertips with [Intercom](https://www.intercom.com/) for JIRA.
+Have your Intercom data at your fingertips with [Intercom for JIRA](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview).
 
-Intercom for JIRA allows you to work with Intercom data right inside of JIRA or 
+Intercom for JIRA allows you to work with [Intercom](https://www.intercom.com/) data right inside of JIRA or 
 JIRA Service Desk without having to leave the current context. And if your workflow 
 requires you to change systems, Intercom is just one click away.
 
+Additionally empower your customer service team to provide excellent customer communication
+via Intercom by linking JIRA issues to Intercom conversations. Updates on issues
+trigger re-opening of closed Intercom conversations so your team knows instantly 
+when it's time to get back to the customer. 
+
+### Key Features
+
+* [Intercom Contact Matching](IntercomIssuePanel.md#contact-matching)
+* [Conversation Linking](ConversationLinking.md)
+* Configurable visible Intercom fields
+
 [Let's get started](GettingStarted.md)
 
-![Local Image](/assets/addons/intercom/Banner.jpeg) 
+![Banner](/assets/addons/intercom/Banner.jpeg) 
 
 ### Supported Products
 
-![Local Image](/assets/atlassian/products/JiraCore.png)
+![JIRA Core](/assets/atlassian/products/JiraCore.png)
 
-![Local Image](/assets/atlassian/products/JiraServiceDesk.png)
+![JIRA Service Desk](/assets/atlassian/products/JiraServiceDesk.png)
  
-![Local Image](/assets/atlassian/products/JiraSoftware.png)
+![JIRA Software](/assets/atlassian/products/JiraSoftware.png)
 
-All JIRA products, including JIRA Service Desk. 
+## Atlassian Marketplace
+
+[marketplace.atlassian.com](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview) 
 
 ## Support
 
