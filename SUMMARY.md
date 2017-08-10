@@ -7,6 +7,7 @@
     * [Configure Intercom Connection](/addons/intercom/ConfigureConnection.md)
     * [Conversation Linking](/addons/intercom/ConversationLinking.md)
     * [Intercom Issue Panel](/addons/intercom/IntercomIssuePanel.md)
+    * [Releases](/addons/intercom/Releases.md)
     * [Glossary](/addons/intercom/Glossary.md)
     * [Security Statement](/addons/intercom/SecurityStatement.md)
 
