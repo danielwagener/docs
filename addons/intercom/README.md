@@ -6,8 +6,8 @@ Intercom for JIRA allows you to work with [Intercom](https://www.intercom.com/) 
 JIRA Service Desk without having to leave the current context. And if your workflow 
 requires you to change systems, Intercom is just one click away.
 
-Additionally empower your customer service team to provide excellent customer communication
-via Intercom by linking JIRA issues to Intercom conversations. Updates on issues
+Additionally empower your customer service team to provide excellent customer 
+communication by linking JIRA issues to Intercom conversations. Updates on issues
 trigger re-opening of closed Intercom conversations so your team knows instantly 
 when it's time to get back to the customer. 
 
