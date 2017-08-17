@@ -2,16 +2,28 @@
 
 > **[success] Latest Release**
 >
-> ### 1.0.4
+> ### 1.0.5
 >
-> Release Date: **2017-08-11**
+> Release Date: **2017-08-17**
 >
-> **Improvements**  
->  * Fix UI spacing on connection configuration page
+> **Bug Fix**  
+>  * Fix a problem causes contact matching to fail and hinders Intercom panel
+>    from rendering
 >
 > Marketplace Version: **1.2.1-AC**  
 
 ## Previous Releases
+
+### 1.0.4
+
+Release Date: **2017-08-11**
+
+**Improvements**  
+ * Fix UI spacing on connection configuration page
+
+Marketplace Version: **1.2.1-AC**  
+
+---
 
 ### 1.0.3
 
