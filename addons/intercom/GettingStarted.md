@@ -58,7 +58,6 @@ Intercom app.
    Intercom page.
 
 ## What's next?
-
-* [Configure Intercom Connection](ConfigureConnection.md) 
-* [Using Conversation Linking](ConversationLinking.md)
-* [Using the Intercom Issue Panel](IntercomIssuePanel.md)
+ 
+* [Conversation Linking](ConversationLinking.md)
+* [Contact Matching](ContactMatching.md)

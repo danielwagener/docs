@@ -1,10 +1,10 @@
 # Conversation Linking
 
-Intercom conversation linking allows you to associate Intercom conversations with
+Intercom conversation linking allows your team to associate Intercom conversations with
 JIRA issues. Linked conversations get updates from associated JIRA issues posted 
 as a [Note](https://docs.intercom.com/responding-to-users-and-visitors/work-as-a-team/loop-teammates-into-conversations).
 
-This allows you to easily stay on top of replying to all your customers impacted
+This allows your team to easily stay on top of replying to all your customers impacted
 by a certain issue in a scalable way. Simply link all conversations to the
 respective issue. Additionally, linked issues can automatically be re-opened on 
 updates. Initially, you link and close conversations. Once there is progress on 
@@ -20,13 +20,17 @@ the top of your inbox.
 
 ![Linked Conversation](/assets/addons/intercom/LinkedConversation.png)
 
-To avoid clutter in linked Intercom conversations, issue updates
-are filtered and Notes will only be posted in the following cases:
+ 
+Notifications can be posted for the following JIRA issue events:
 
 * issue created
 * issue assignee changed
 * issue status changed
 * issue commented
+
+Which of these notifications should be posted and when conversations are re-opened
+is fully configurable. See the [here](ConversationLinkingConfiguration.md) on how 
+to tweak it.
 
 ### Link Intercom Conversation to JIRA Issue
                                                              
@@ -45,7 +49,7 @@ simply by pasting a conversation URL into the issue description or comments.
 
 You can unlink an Intercom conversation by removing the conversation URL from 
 the respective JIRA issue comment or description.
-After that no more updates will we sent to that conversation. 
+After that no more updates will we sent to that conversation.
 
 ## Feature limitation
 
@@ -55,11 +59,11 @@ has a trial or active subscription.
 This condition is imposed by the Intercom API and cannot be changed.
 
 If you are solely using Intercom Platform (free), we recommended that you 
-disable this feature all together. Follow the instructions on how to [configure
-Conversation Linking](ConfigureConnection.html#enabledisable-conversation-linking)
+disable conversation linking all together. Follow the instructions on how to [configure
+Conversation Linking](ConfigureConnection.html#enabledisable-conversation-linking).
 
 
 ## What's next?
 
-* [Configure Conversation Linking](ConfigureConnection.html#configure-conversation-linking)
-* [Using the Intercom Issue Panel](IntercomIssuePanel.md)
+* [Configure Conversation Linking](ConversationLinkingConfiguration.md)
+* [Workflow Post Function: Notify Intercom Conversations](NotifyIntercomWPF.md)

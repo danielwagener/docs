@@ -2,20 +2,20 @@
 
 Have your Intercom data at your fingertips with [Intercom for JIRA](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview).
 
-Intercom for JIRA allows you to work with [Intercom](https://www.intercom.com/) data right inside of JIRA or 
-JIRA Service Desk without having to leave the current context. And if your workflow 
-requires you to change systems, Intercom is just one click away.
+Intercom for JIRA allows you to seamlessly integrate [Intercom](https://www.intercom.com/)
+into your JIRA issue processing. Empower your customer service team to provide 
+excellent customer communication by linking JIRA issues to Intercom conversations.
+Updates on issues can trigger re-opening of closed Intercom conversations so your 
+team knows instantly when it's time to get back to the customer.
 
-Additionally empower your customer service team to provide excellent customer 
-communication by linking JIRA issues to Intercom conversations. Updates on issues
-trigger re-opening of closed Intercom conversations so your team knows instantly 
-when it's time to get back to the customer. 
+Additionally have your Intercom data right inside of JIRA or JIRA Service Desk 
+without having to leave the current context. And if your workflow requires you 
+to change systems, Intercom is just one click away.
 
 ### Key Features
 
-* [Intercom Contact Matching](IntercomIssuePanel.md#contact-matching)
 * [Conversation Linking](ConversationLinking.md)
-* [Configurable Visible Intercom Fields](ConfigureConnection.html#configure-visible-fields)
+* [Contact Matching](ContactMatching.md)
 
 [Let's get started](GettingStarted.md)
 
