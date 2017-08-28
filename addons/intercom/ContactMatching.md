@@ -1,4 +1,4 @@
-# Intercom Issue Panel
+# Contact Matching
 
 Some of your customers might use JIRA Service Desk to report issues. At the same
 time this same customer contacted you previously via the Intercom messenger on
@@ -15,8 +15,6 @@ Intercom User or Lead from the JIRA issue reporter.
 > **[info] Prerequisites**
 >
 > * [Authorized Intercom Connection](GettingStarted.md)
-
-## Contact Matching
 
 As soon as the issue page loads, Intercom for JIRA will try to match the issue
 reporter's email address against any Intercom User or Lead email addresses.
@@ -52,4 +50,4 @@ reloads and the created contact is shown.
 
 ## What's next?
 
-* [Using Conversation Linking](ConversationLinking.md)
+* [Configure Contact Matching](ContactMatchingConfiguration.md)

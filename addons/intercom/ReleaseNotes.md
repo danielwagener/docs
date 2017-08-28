@@ -2,17 +2,35 @@
 
 > **[success] Latest Release**
 >
-> ### 1.0.5
+> ### 1.1.0
 >
-> Release Date: **2017-08-17**
+> Release Date: **2017-08-28**
 >
-> **Bug Fix**  
->  * Fix a problem causes contact matching to fail and hinders Intercom panel
->    from rendering
+> **New Features**  
+>  * New configuration to **enable/disable Contact Matching** feature.
+>  * New **Workflow Post Function to notify Intercom conversation** on issue
+>    transition and optionally re-open conversation.
+>  * New **notification trigger configuration** that allows more fine-grained
+>    configuration of when to notify Intercom conversations. 
 >
-> Marketplace Version: **1.2.1-AC**  
+> **Removals**
+>  * Removed global re-open conversation configuration. We replaced the global
+>    re-open switch with a much more fine-grained configuration that is more
+>    versatile and adaptable to different use cases. The use case of a global
+>    re-open feature is fully covered by the new configuration.
+>
+> Marketplace Version: **1.2.2-AC**  
 
-## Previous Releases
+## Past Releases
+
+### 1.0.5
+Release Date: **2017-08-17**
+
+**Bug Fix**  
+ * Fix a problem causes contact matching to fail and hinders Intercom panel
+   from rendering
+   
+Marketplace Version: **1.2.1-AC**  
 
 ### 1.0.4
 
