@@ -19,7 +19,7 @@
 >    versatile and adaptable to different use cases. The use case of a global
 >    re-open feature is fully covered by the new configuration.
 >
-> Marketplace Version: **1.2.2-AC**  
+> Marketplace Version: **1.2.4-AC**  
 
 ## Past Releases
 
