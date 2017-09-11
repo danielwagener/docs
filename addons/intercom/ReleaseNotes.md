@@ -4,7 +4,7 @@
 >
 > ### 1.1.1 (Marketplace Version: **1.2.5-AC** )
 >
-> Release Date: **2017-09-08**
+> Release Date: **2017-09-11**
 >
 > **New Features**  
 >  * Intercom issue panel can now **show Intercom contacts extracted from linked
@@ -22,8 +22,8 @@
 >  **Notes**
 >  * Existing users who have Intercom issue panel enabled might see the 
 >    panel disappear after the update. To fix this simply go to to the 
->    Intercom configuration page and toggle the feature switch to *on* and 
->    then *off* again.
+>    Intercom configuration page and toggle the feature switch to *off* and 
+>    then *on* again.
 
 ## Past Releases
 
