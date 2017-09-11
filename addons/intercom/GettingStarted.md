@@ -60,4 +60,4 @@ Intercom app.
 ## What's next?
  
 * [Conversation Linking](ConversationLinking.md)
-* [Contact Matching](ContactMatching.md)
+* [Intercom Issue Panel](IntercomIssuePanel.md)
