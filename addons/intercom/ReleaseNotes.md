@@ -2,30 +2,40 @@
 
 > **[success] Latest Release**
 >
-> ### 1.1.1 (Marketplace Version: **1.2.5-AC** )
+> ### 1.1.2 (Marketplace Version: **1.2.5-AC** )
 >
 > Release Date: **2017-09-11**
 >
-> **New Features**  
->  * Intercom issue panel can now **show Intercom contacts extracted from linked
->    Intercom conversations**.
->  * New **contact source configuration** that allows to control whether Intercom
->    issue panel shows Intercom contacts based on linked conversations or based
->    on issue reporter's email address.
->
-> **Removals**
->  * Create Intercom User or Lead when there is no Intercom contact matching
->    a issue reporter's email has been removed. If anyone needs this feature
->    we will look into ways to add it back.
->
->
->  **Notes**
->  * Existing users who have Intercom issue panel enabled might see the 
->    panel disappear after the update. To fix this simply go to to the 
->    Intercom configuration page and toggle the feature switch to *off* and 
->    then *on* again.
+> **Bug Fix**  
+>  * Fix an issue where conversation URLs copied from Intercom Respond fail to
+>    be parsed properly.
 
 ## Past Releases
+
+### 1.1.1 (Marketplace Version: **1.2.5-AC** )
+
+Release Date: **2017-09-11**
+
+**New Features**  
+ * Intercom issue panel can now **show Intercom contacts extracted from linked
+   Intercom conversations**.
+ * New **contact source configuration** that allows to control whether Intercom
+   issue panel shows Intercom contacts based on linked conversations or based
+   on issue reporter's email address.
+
+**Removals**
+ * Create Intercom User or Lead when there is no Intercom contact matching
+   a issue reporter's email has been removed. If anyone needs this feature
+   we will look into ways to add it back.
+
+
+ **Notes**
+ * Existing users who have Intercom issue panel enabled might see the 
+   panel disappear after the update. To fix this simply go to to the 
+   Intercom configuration page and toggle the feature switch to *off* and 
+   then *on* again.
+   
+---
 
 ### 1.1.0
 
