@@ -8,14 +8,14 @@ excellent customer communication by linking JIRA issues to Intercom conversation
 Updates on issues can trigger re-opening of closed Intercom conversations so your 
 team knows instantly when it's time to get back to the customer.
 
-Additionally have your Intercom data right inside of JIRA or JIRA Service Desk 
-without having to leave the current context. And if your workflow requires you 
-to change systems, Intercom is just one click away.
+Additionally have Customers associated with Intercom Conversations right inside 
+of JIRA or JIRA Service Desk without having to leave the current context. And if 
+your workflow requires you to change systems, Intercom is just one click away.
 
 ### Key Features
 
 * [Conversation Linking](ConversationLinking.md)
-* [Contact Matching](ContactMatching.md)
+* [Intercom Issue Panel](IntercomIssuePanel.md)
 
 [Let's get started](GettingStarted.md)
 
@@ -32,8 +32,7 @@ All **JIRA Cloud** products are supported:
 ![JIRA Software](/assets/atlassian/products/JiraSoftware.png)
 
 If you are looking for **JIRA Server** version of this add-on please let us know 
-at [support@toolsplus.ch](mailto:support@toolsplus.ch) so we can track demand and 
-consider a version for JIRA Server.  
+at [support@toolsplus.ch](mailto:support@toolsplus.ch).  
 
 ## Atlassian Marketplace
 
