@@ -4,5 +4,5 @@ Here you can find documentation for all our products.
 
 ## Atlassian Add-ons
 
-* [Intercom for JIRA](/addons/intercom/README.md)
+* [Intercom for Jira](/addons/intercom/README.md)
 * more coming soon

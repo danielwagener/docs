@@ -1,13 +1,13 @@
 # Conversation Linking Configuration
 
 Intercom conversation linking allows you to get notifications on Intercom conversations 
-whenever associated JIRA issues change. This page will walk you through the
+whenever associated Jira issues change. This page will walk you through the
 configuration options and show you how to tweak the feature to your needs.
 
 > **[info] Prerequisites**
 >
 > * [Authorized Intercom Connection](GettingStarted.md)
-> * [JIRA _Administer projects_ Permission](https://confluence.atlassian.com/adminjiracloud/managing-project-permissions-776636362.html)
+> * [Jira _Administer projects_ Permission](https://confluence.atlassian.com/adminjiracloud/managing-project-permissions-776636362.html)
 
 
 ## Open Conversation Linking Configuration
@@ -36,8 +36,8 @@ with Intercom trail or subscription).
 
 ## Configure when to notify linked Intercom conversations
 
-Check the JIRA issue events for which you would like Intercom
-for JIRA to post notifications. You can choose one or more of the following events: 
+Check the Jira issue events for which you would like Intercom
+for Jira to post notifications. You can choose one or more of the following events: 
 
 * issue created
 * issue assignee changed

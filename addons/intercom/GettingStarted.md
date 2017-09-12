@@ -2,10 +2,10 @@
 
 ## Installation
 
-1. Log into your JIRA instance as an admin.
+1. Log into your Jira instance as an admin.
 1. Click the admin dropdown and choose **Add-ons**.
    The Find new add-ons screen loads.
-1. Locate **Intercom for JIRA**.
+1. Locate **Intercom for Jira**.
 1. Click **Free trial** to download and install your add-on.
 
 You're all set!
@@ -29,12 +29,12 @@ Intercom app.
    
    This will redirect you to the Intercom OAuth page, where you will be asked to
    log into Intercom (if you haven't done so already) and then for permission to 
-   link JIRA to Intercom.
+   link Jira to Intercom.
    
    > **[info] Note**
    >
    > The Intercom user you use to authenticate the connection will be shared by all
-   > JIRA users of this project. Every interactions with 
+   > Jira users of this project. Every interactions with 
    > Intercom happens on behalf of this particular Intercom user.
    > 
    > If you do not want to use your personal Intercom account, consider setting 

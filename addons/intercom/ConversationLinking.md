@@ -1,14 +1,14 @@
 # Conversation Linking
 
 Intercom conversation linking allows your team to associate Intercom conversations with
-JIRA issues. Linked conversations get updates from associated JIRA issues posted 
+Jira issues. Linked conversations get updates from associated Jira issues posted 
 as a [Note](https://docs.intercom.com/responding-to-users-and-visitors/work-as-a-team/loop-teammates-into-conversations).
 
 This allows your team to easily stay on top of replying to all your customers impacted
 by a certain issue in a scalable way. Simply link all conversations to the
 respective issue. Additionally, linked issues can automatically be re-opened on 
 updates. Initially, you link and close conversations. Once there is progress on 
-the JIRA ticket, linked conversations are automatically re-opened and show up at 
+the Jira ticket, linked conversations are automatically re-opened and show up at 
 the top of your inbox.
 
 > **[info] Prerequisites**
@@ -21,7 +21,7 @@ the top of your inbox.
 ![Linked Conversation](/assets/addons/intercom/LinkedConversation.png)
 
  
-Notifications can be posted for the following JIRA issue events:
+Notifications can be posted for the following Jira issue events:
 
 * issue created
 * issue assignee changed
@@ -32,23 +32,23 @@ Which of these notifications should be posted and when conversations are re-open
 is fully configurable. See the [here](ConversationLinkingConfiguration.md) on how 
 to tweak it.
 
-### Link Intercom Conversation to JIRA Issue
+### Link Intercom Conversation to Jira Issue
                                                              
-A link between an JIRA issue and an Intercom conversation can be established 
+A link between an Jira issue and an Intercom conversation can be established 
 simply by pasting a conversation URL into the issue description or comments.
 
 1. Open the Intercom conversation you would like to link.
 1. Copy the URL from the browser's address bar.
    ![Copy Conversatio URL](/assets/addons/intercom/CopyConversationUrl.png)
-1. Open the JIRA issue you would like to link or create a new one.
+1. Open the Jira issue you would like to link or create a new one.
 1. Paste the URL into an issue comment, or add it to the issue description.
 1. Your conversation is now linked and you can find a Note 
    with the issue reference posted to the Intercom conversation.
    
-### Unlink Intercom Conversation from JIRA Issue
+### Unlink Intercom Conversation from Jira Issue
 
 You can unlink an Intercom conversation by removing the conversation URL from 
-the respective JIRA issue comment or description.
+the respective Jira issue comment or description.
 After that no more updates will we sent to that conversation.
 
 ## Feature limitation

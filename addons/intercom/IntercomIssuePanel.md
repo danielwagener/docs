@@ -2,16 +2,16 @@
 
 Once you start using [Conversation Linking](ConversationLinking.md) you might
 want to know which Intercom Users or Leads are associated with linked 
-conversations and display that information in your JIRA issue. 
+conversations and display that information in your Jira issue. 
 That's why we created Intercom Issue Panel that extracts Intercom Contacts from
-linked conversations and displays them next to your JIRA issue.
+linked conversations and displays them next to your Jira issue.
 
 > **[info] Prerequisites**
 >
 > * [Authorized Intercom Connection](GettingStarted.md)
 > * Intercom Issue Panel enabled
 
-As soon as the issue page loads, Intercom for JIRA will extract Intercom 
+As soon as the issue page loads, Intercom for Jira will extract Intercom 
 Users or Leads for all linked Intercom conversations and display the result
 in the Intercom Issue Panel.
  
@@ -35,8 +35,8 @@ new tab or simply click the Contact's name.
 
 ## Alternative use case
 
-If some of your Intercom Contacts use JIRA Service Desk to report issues you can
-configure the Intercom Panel to display Intercom Contacts next to your JIRA
+If some of your Intercom Contacts use Jira Service Desk to report issues you can
+configure the Intercom Panel to display Intercom Contacts next to your Jira
 issue by auto-matching the issue reporter's email address against your Intercom
 Users and Leads. Matching contacts show up automatically and give you customizable
 Intercom information about the issue reporter.

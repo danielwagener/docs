@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 
-* [Intercom for JIRA](/addons/intercom/README.md)
+* [Intercom for Jira](/addons/intercom/README.md)
     * [Getting Started](/addons/intercom/GettingStarted.md)
     * [Conversation Linking](/addons/intercom/ConversationLinking.md)
         * [Workflow Post Function](/addons/intercom/NotifyIntercomWPF.md)

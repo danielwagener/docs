@@ -1,7 +1,7 @@
 # Workflow Post Function: Notify Intercom Conversations
 
 If your process requires to notify and re-open linked Intercom conversations on 
-specific JIRA issue transitions the workflow post function *Notify Intercom 
+specific Jira issue transitions the workflow post function *Notify Intercom 
 Conversations* is for you.
 
 This page walks you through all the steps to configure such a post function.
@@ -9,7 +9,7 @@ This page walks you through all the steps to configure such a post function.
 > **[info] Prerequisites**
 >
 > * Active Intercom subscription or trial
-> * JIRA Project is connected to Intercom
+> * Jira Project is connected to Intercom
 > * Conversation linking is enabled
 
 ## Add Workflow Post Function
@@ -54,5 +54,5 @@ any time. To do so
 If your Workflow Post Function is not working please ensure that
 
 1. You have a active Intercom subscription or trial
-2. The JIRA project is connected to Intercom
+2. The Jira project is connected to Intercom
 3. [Conversation linking is enabled](ConversationLinkingConfiguration.md#enabledisable-conversation-linking) in the connection configuration

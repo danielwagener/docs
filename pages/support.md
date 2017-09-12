@@ -6,7 +6,7 @@
 
 We are happy to help!
 
-Contact us using **Intercom messenger** at the bottom right of this page, [JIRA
+Contact us using **Intercom messenger** at the bottom right of this page, [Jira
 Service Desk](http://support.toolsplus.ch) or send us an 
 [email](mailto:support@toolsplus.ch).
 
