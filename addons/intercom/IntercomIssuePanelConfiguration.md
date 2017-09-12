@@ -6,7 +6,7 @@ options available to tailor-fit the add-on's behaviour and features to your need
 > **[info] Prerequisites**
 >
 > * [Authorized Intercom Connection](GettingStarted.md)
-> * [JIRA _Administer projects_ Permission](https://confluence.atlassian.com/adminjiracloud/managing-project-permissions-776636362.html)
+> * [Jira _Administer projects_ Permission](https://confluence.atlassian.com/adminjiracloud/managing-project-permissions-776636362.html)
 
 ## Enable/Disable Intercom Issue Panel
                                                              
@@ -14,14 +14,14 @@ By enabling/disabling the toggle button next to the Intercom Issue Panel title
 you can enable/disable the whole feature.
 
 This is useful if you don't want the add-on to render the Intercom panel on your
-JIRA issue page.
+Jira issue page.
 
 ## Configure Contact Source
 
-You can specify how Intercom for JIRA fetches Contacts. Choose between 
+You can specify how Intercom for Jira fetches Contacts. Choose between 
 **Linked conversations** or **Issue reporter's email**.
 
-With **Linked conversations** selected, Intercom for JIRA will search your issue
+With **Linked conversations** selected, Intercom for Jira will search your issue
 for conversation URLs ([Linked Conversations](ConversationLinking.md)) and
 extract the associated Intercom Users/Leads from those. The resulting Intercom
 Contacts will be shown on the panel.
@@ -44,9 +44,9 @@ The configuration allows you to
 > **[warning] Warning**
 >
 > This feature is designed for configurability of the user interface. It is not 
-> designed to securely remove information visible to JIRA users.
+> designed to securely remove information visible to Jira users.
 > If a field is not configured to be visible, it does not mean that the data is  not
-> available to JIRA users.
+> available to Jira users.
 
 
 ![Visible Fields](/assets/addons/intercom/VisibleFields.png)
