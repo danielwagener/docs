@@ -42,7 +42,7 @@ configure [custom attributes](#custom-attributes).
 * [Remove Field from Visible Fields](#remove-field-from-visible-fields)
 * [Add Custom Attribute to Visible Fields](#add-custom-attribute-to-visible-fields)
 
-> **[warning] Note**
+> **[warning] Warning**
 >
 > This feature is designed for configurability of the user interface. It is not 
 > designed to securely remove information visible to Jira users.
@@ -91,9 +91,18 @@ fashion.
 
 1. Select **User** or **Lead** depending on which entity you would like to configure.
 1. Paste the custom attribute name into the input field reading **Custom attribute name** 
-   below the list of visible fields. Note that the name is **case sensitive** and
-   has to exactly match the name you choose when you configured the field, including
-   _ and spaces.
+   below the list of visible fields. 
+   
+   > **[info] Note**
+   > 
+   > The custom attribute name is **case sensitive** and has to match exactly the 
+   > name you choose when you configured the field, including _ and spaces.
+   >
+   > If you need to look up the exact name hover over the custom attribute icon
+   > on the User/Lead page and copy it from there.
+   >
+   > ![Copy Custom Field Name](/assets/addons/intercom/CopyCustomFieldName.png)
+   
 1. Click **Add Custom Attribute**.
 1. Your custom attribute will be added to the list of visible fields and marked 
    with a "Custom Attribute" label. The configuration change will be saved 
