@@ -2,7 +2,7 @@
 
 > **[success] Latest Release**
 >
-> ### 1.1.3 (Marketplace Version: **1.2.5-AC** )
+> ### 1.1.3 (Marketplace Version: **1.2.6-AC** )
 >
 > Release Date: **2017-09-15**
 >
