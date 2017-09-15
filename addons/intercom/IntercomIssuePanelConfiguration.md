@@ -33,41 +33,42 @@ be shown on the panel.
 ## Configure Visible Fields
 
 This setting allows you to configure visible fields for Intercom Users and Leads.
-Visible fields will show up on the [Intercom Panel](IntercomIssuePanel.md) in the order defined.
+Visible fields will show up on the [Intercom Panel](IntercomIssuePanel.md) in 
+the order defined. In addition to *Intercom standard fields* you can also 
+configure [custom attributes](#custom-attributes).
 
-The configuration allows you to 
-
-* [Reorder Visible Fields](#reorder-visible-fields)
 * [Add Field to Visible Fields](#add-field-to-visible-fields)
+* [Reorder Visible Fields](#reorder-visible-fields)
 * [Remove Field from Visible Fields](#remove-field-from-visible-fields)
+* [Add Custom Attribute to Visible Fields](#add-custom-attribute-to-visible-fields)
 
-> **[warning] Warning**
+> **[warning] Note**
 >
 > This feature is designed for configurability of the user interface. It is not 
 > designed to securely remove information visible to Jira users.
-> If a field is not configured to be visible, it does not mean that the data is  not
-> available to Jira users.
+> If a field is not visible, it does not mean that the data is not available to 
+> Jira users.
 
 
 ![Visible Fields](/assets/addons/intercom/VisibleFields.png)
 
-## Reorder Visible Fields
+### Add Field to Visible Fields
+
+1. Select **User** or **Lead** depending on which entity you would like to configure.
+1. Click the select box reading **Choose a field** below the list of visible fields.
+1. Type to search or scroll to browse until you have found the field.
+1. Click **Add Field**.
+1. Your field will be added to the list of visible fields and the configuration
+   change will be saved automatically.
+   
+### Reorder Visible Fields
 
 1. Select **User** or **Lead** depending on which entity you would like to configure.
 1. Hover over the field you would like to reorder.
 1. Click and drag it to the desired position.
 1. The configuration change will be saved automatically.
-
-## Add Field to Visible Fields
-
-1. Select **User** or **Lead** depending on which entity you would like to configure.
-1. Click the select box reading **Choose a field** below the list of visible fields.
-1. Type to search or scroll to browse until you have found the field.
-1. Click **Add**.
-1. Your field will be added to the list of visible fields and the configuration
-   change will be saved automatically.
    
-## Remove Field from Visible Fields
+### Remove Field from Visible Fields
 
 1. Select **User** or **Lead** depending on which entity you would like to configure.
 1. Browse the list of visible fields until you have found the field you would like
@@ -75,3 +76,25 @@ The configuration allows you to
 1. Click the **trash bin** button at the right side of the field entry.
 1. Your field will be removed from the list of visible fields and the configuration
    change will be saved automatically.
+   
+### Custom Attributes
+
+Custom attributes are Intercom's way of adding your own fields to your Intercom 
+apps. Follow the [instructions in the Intercom documentation](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-intercom-to-be-about-your-users/send-custom-user-attributes-to-intercom) 
+on how to configure custom attributes. Make sure you follow Intercom's recommended
+practices for naming custom attributes, in particular make sure that keys of
+attributes of type **Date** end with `_at`, e.g. `last_order_at`. Custom attributes
+that end in `_at` are detected as timestamps and rendered in a human readable 
+fashion. 
+
+### Add Custom Attribute to Visible Fields
+
+1. Select **User** or **Lead** depending on which entity you would like to configure.
+1. Paste the custom attribute name into the input field reading **Custom attribute name** 
+   below the list of visible fields. Note that the name is **case sensitive** and
+   has to exactly match the name you choose when you configured the field, including
+   _ and spaces.
+1. Click **Add Custom Attribute**.
+1. Your custom attribute will be added to the list of visible fields and marked 
+   with a "Custom Attribute" label. The configuration change will be saved 
+   automatically.

@@ -2,15 +2,25 @@
 
 > **[success] Latest Release**
 >
-> ### 1.1.2 (Marketplace Version: **1.2.5-AC** )
+> ### 1.1.3 (Marketplace Version: **1.2.5-AC** )
 >
-> Release Date: **2017-09-11**
+> Release Date: **2017-09-15**
 >
-> **Bug Fix**  
->  * Fix an issue where conversation URLs copied from Intercom Respond fail to
->    be parsed properly.
+> **New Features**  
+>  * New visible field [configuration to add Intercom custom attributes](IntercomIssuePanelConfiguration.md#custom-attributes)
+>    to Intercom Issue Panel.
 
 ## Past Releases
+
+### 1.1.2 (Marketplace Version: **1.2.5-AC** )
+
+Release Date: **2017-09-11**
+
+**Bug Fixes**  
+ * Fix an issue where conversation URLs copied from Intercom Respond fail to
+   be parsed properly.
+
+---
 
 ### 1.1.1 (Marketplace Version: **1.2.5-AC** )
 
@@ -29,11 +39,12 @@ Release Date: **2017-09-11**
    we will look into ways to add it back.
 
 
- **Notes**
- * Existing users who have Intercom issue panel enabled might see the 
-   panel disappear after the update. To fix this simply go to to the 
-   Intercom configuration page and toggle the feature switch to *off* and 
-   then *on* again.
+> **[info] Note**
+>
+> Existing users who have Intercom issue panel enabled might see the 
+> panel disappear after the update. To fix this simply go to to the 
+> Intercom configuration page and toggle the feature switch to *off* and 
+> then *on* again.
    
 ---
 
@@ -61,7 +72,7 @@ Marketplace Version: **1.2.4-AC**
 ### 1.0.5
 Release Date: **2017-08-17**
 
-**Bug Fix**  
+**Bug Fixes**  
  * Fix a problem causes contact matching to fail and hinders Intercom panel
    from rendering
    
