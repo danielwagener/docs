@@ -14,5 +14,8 @@
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "rimraf": "^2.6.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-toggle-chapters": "^0.0.3"
   }
 }

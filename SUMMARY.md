@@ -9,8 +9,9 @@
         * [Configuration](/addons/intercom/ConversationLinkingConfiguration.md)
     * [Intercom Issue Panel](/addons/intercom/IntercomIssuePanel.md)
         * [Configuration](/addons/intercom/IntercomIssuePanelConfiguration.md)
+    * [Conversation Actions](/addons/intercom/ConversationActions.md)
+        * [Configuration](/addons/intercom/ConversationActionsConfiguration.md)
     * [Release Notes](/addons/intercom/ReleaseNotes.md)
-    * [Glossary](/addons/intercom/Glossary.md)
     * [Security Statement](/addons/intercom/SecurityStatement.md)
 
 * [Support](/pages/support.md)

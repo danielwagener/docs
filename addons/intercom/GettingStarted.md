@@ -25,7 +25,7 @@ Intercom app.
 
 1. Then click the button **Connect with Intercom**.
 
-   ![Local Image](/assets/addons/intercom/ConnectToIntercom.png)
+   ![Connect to Intercom](/assets/addons/intercom/ConnectToIntercom.png)
    
    This will redirect you to the Intercom OAuth page, where you will be asked to
    log into Intercom (if you haven't done so already) and then for permission to 
@@ -45,12 +45,12 @@ Intercom app.
 1. On the top right of the OAuth page select the Intercom app you would like
    to connect to. 
    
-   ![Local Image](/assets/addons/intercom/IntercomOAuthPage.png)
+   ![Intercom OAuth Page](/assets/addons/intercom/IntercomOAuthPage.png)
    
 1. Click **Connect** to continue. The OAuth page closes automatically and the 
    Intercom connection status changes to _Connected_.
    
-   ![Local Image](/assets/addons/intercom/IntercomConnected.png)
+   ![Intercom Connected](/assets/addons/intercom/IntercomConnected.png)
    
    When connected the connection details show which Intercom app you are 
    connected to and which user has been used to authorize the connection. 
