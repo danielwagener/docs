@@ -18,6 +18,7 @@ page. To open it
 1. Click the admin dropdown and choose **Projects**.
 1. Click the project you would like to configure.
 1. In the left sidebar, click on **Intercom integration**.
+1. On the page switch to the **Conversation Linking** tab.
 
 The following screenshot shows the Conversation Linking configuration with all
 features enabled. See below on how the individual settings work.

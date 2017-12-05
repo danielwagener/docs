@@ -11,6 +11,9 @@ updates. Initially, you link and close conversations. Once there is progress on
 the Jira ticket, linked conversations are automatically re-opened and show up at 
 the top of your inbox.
 
+If your Intercom team does not have access to Jira consider using [Conversation Actions](ConversationActions.md)
+to give them a way to link or create Jira issues directly from Intercom.
+
 > **[info] Prerequisites**
 >
 > * Active Intercom subscription or trial
@@ -34,7 +37,7 @@ to tweak it.
 
 ### Link Intercom Conversation to Jira Issue
                                                              
-A link between an Jira issue and an Intercom conversation can be established 
+A link between a Jira issue and an Intercom conversation can be established 
 simply by pasting a conversation URL into the issue description or comments.
 
 1. Open the Intercom conversation you would like to link.

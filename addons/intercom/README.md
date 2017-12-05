@@ -1,15 +1,18 @@
 # Intercom for Jira
 
-Have your Intercom data at your fingertips with [Intercom for Jira](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview).
+Link your Intercom conversations to Jira issues with [Intercom for Jira](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview).
 
-Intercom for Jira allows you to seamlessly integrate [Intercom](https://www.intercom.com/)
-into your Jira issue processing. Empower your customer service team to provide 
-excellent customer communication by linking Jira issues to Intercom conversations.
+Intercom for Jira allows you to set up a seamless process from [Intercom](https://www.intercom.com/)
+conversations to Jira issue processing and back. Empower your customer service team to provide 
+excellent customer communication by [linking Jira issues to Intercom conversations](ConversationLinking.md).
 Updates on issues can trigger re-opening of closed Intercom conversations so your 
 team knows instantly when it's time to get back to the customer.
 
-Additionally have Customers associated with Intercom Conversations right inside 
-of Jira or Jira Service Desk without having to leave the current context. And if 
+With [conversation actions](ConversationActions.md) your Intercom team can create new Jira issues 
+or link existing ones from within any Intercom conversation, without ever having to leave Intercom.
+
+Additionally see Customers associated with Intercom Conversations right inside Jira or 
+Jira Service Desk without having to leave the current context. And if 
 your workflow requires you to change systems, Intercom is just one click away.
 
 [![Atlassian Marketplace](/assets/addons/VendorBadge.png)](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview)
@@ -17,6 +20,7 @@ your workflow requires you to change systems, Intercom is just one click away.
 ### Key Features
 
 * [Conversation Linking](ConversationLinking.md)
+* [Conversation Actions](ConversationActions.md)
 * [Intercom Issue Panel](IntercomIssuePanel.md)
 
 [Let's get started](GettingStarted.md)

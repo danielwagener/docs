@@ -21,7 +21,7 @@ in the Intercom Issue Panel.
   ![Local Image](/assets/addons/intercom/IntercomPanel.png)
 
 * If there is _more then one match_ a list of Users and Leads will be shown with
-  a button to see each [Contact's](Glossary.md#def-contacts) details.
+  a button to see each customer's details.
   
   ![Local Image](/assets/addons/intercom/IntercomPanelMultiContacts.png)
   
