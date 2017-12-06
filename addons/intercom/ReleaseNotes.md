@@ -2,15 +2,36 @@
 
 > **[success] Latest Release**
 >
-> ### 1.1.3 (Marketplace Version: **1.2.6-AC** )
+> ### 1.1.4 (Marketplace Version: **1.2.7-AC** )
 >
-> Release Date: **2017-09-15**
+> Release Date: **2017-12-06**
 >
 > **New Features**  
->  * New visible field [configuration to add Intercom custom attributes](IntercomIssuePanelConfiguration.md#custom-attributes)
->    to Intercom Issue Panel.
+>  * New [conversation actions](ConversationActions.md) to create and link Jira issues
+>    directly from Intercom conversations.
+>
+> **Improvements**  
+>  * Show a pop-up message to inform users to reload the Jira page if connection to 
+>    add-on server has expired.
+>  * Change Intercom configuration page to a Tab layout instead of a single page to make
+>    it easier to navigate different feature configurations. 
+>
+> **Bug Fixes**  
+>  * Fix a problem where Intercom feature toggles did not actually reflect the correct on/off
+>    state.
+>
 
 ## Past Releases
+
+### 1.1.3 (Marketplace Version: **1.2.6-AC** )
+
+Release Date: **2017-09-15**
+
+**New Features**  
+ * New visible field [configuration to add Intercom custom attributes](IntercomIssuePanelConfiguration.md#custom-attributes)
+   to Intercom Issue Panel.
+
+---
 
 ### 1.1.2 (Marketplace Version: **1.2.5-AC** )
 
@@ -73,8 +94,8 @@ Marketplace Version: **1.2.4-AC**
 Release Date: **2017-08-17**
 
 **Bug Fixes**  
- * Fix a problem causes contact matching to fail and hinders Intercom panel
-   from rendering
+ * Fix a problem that caused contact matching to fail and resulted in Intercom panel
+   not rendering.
    
 Marketplace Version: **1.2.1-AC**  
 
