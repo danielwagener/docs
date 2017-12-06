@@ -24,8 +24,20 @@ page. To open it
 ## Enable/Disable Conversation Actions
                                                              
 By enabling/disabling the checkbox for the feature you can enable/disable the conversation actions 
-feature for the Jira project. The feature is disabled by default, so make sure you 
-enable it before you start using conversation actions.
+feature for the Jira project.
+
+The feature is disabled by default, so make sure you enable it before you start using conversation 
+actions. Please take note of the additional step below if you used Intercom for Jira before 
+December 6, 2017.
+
+> **[warning] If you used Intercom for Jira before December 6, 2017**
+>
+> If you used Intercom for Jira before December 6, 2017 enabling Conversation actions on Jira projects 
+> that have already been connected to Intercom may fail (the checkbox does not check).
+>
+> This is because your existing Intercom connections do not have permission to create the required 
+> Intercom webhook. To fix this please revoke and re-authorize the Intercom connection on your Jira 
+> projects as described in [Setup a Connection to Intercom](GettingStarted.md#setup-a-connection-to-intercom).
 
 ## Configure Create Jira Issue from Intercom
 
