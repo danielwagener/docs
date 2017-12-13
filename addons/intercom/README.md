@@ -1,4 +1,4 @@
-# Intercom for Jira
+# <img class="product-header" src="/assets/addons/intercom/Header.jpg"/>
 
 Link your Intercom conversations to Jira issues with [Intercom for Jira](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview).
 
@@ -15,7 +15,7 @@ Additionally see Customers associated with Intercom Conversations right inside J
 Jira Service Desk without having to leave the current context. And if 
 your workflow requires you to change systems, Intercom is just one click away.
 
-[![Atlassian Marketplace](/assets/addons/VendorBadge.png)](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview)
+<a target="_blank" href="https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview"><img src="/assets/addons/VendorBadge.png" height=50/></a>
 
 ### Key Features
 
@@ -24,20 +24,18 @@ your workflow requires you to change systems, Intercom is just one click away.
 * [Intercom Issue Panel](IntercomIssuePanel.md)
 
 [Let's get started](GettingStarted.md)
-
-![Banner](/assets/addons/intercom/Banner.jpeg) 
  
 ### Supported Products
 
 All **Jira Cloud** products are supported:
 
-![Jira Core](/assets/atlassian/products/JiraCore.png)
+<img src="/assets/atlassian/products/JiraCore.png" height=13/>
 
-![Jira Service Desk](/assets/atlassian/products/JiraServiceDesk.png)
+<img src="/assets/atlassian/products/JiraServiceDesk.png" height=15/>
  
-![Jira Software](/assets/atlassian/products/JiraSoftware.png)
+<img src="/assets/atlassian/products/JiraSoftware.png" height=15/>
 
-If you are looking for **Jira Server** version of this add-on please let us know 
+If you are looking for **Jira Server** version of this add-on please let us know via our Intercom or
 at [support@toolsplus.ch](mailto:support@toolsplus.ch).
 
 
