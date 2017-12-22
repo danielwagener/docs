@@ -23,9 +23,39 @@ latest updates.
 
 <br>
 
+## We are adjusting pricing January 1st 2018
+
+**22 December 2017** 
+
+ToolsPlus is adjusting our pricing for Intercom for Jira to more accurately reflect the value users get
+from the integration and to enable us to continue delivering new features and improvements.
+
+Existing customers and evaluators will continue to benefit from our current price until March 1st 2018. The 
+price change will only affect their payment schedule after March 1st.* 
+
+Here is the new monthly pricing (USD):
+
+**Up to 10 users**<br>
+Flat rate: $10
+
+**More than 10 users**<br>
+1-100 users: $1.25/user<br>
+101-250 users: $125 + $0.75/user<br>
+251-2000 users: $237.50 + $0.25/user
+
+We have come a long way since our first release in August 2017. Back then, Intercom for Jira started 
+with a simple Intercom contacts display. It has now evolved to offer automatic re-opening of Intercom 
+conversations, creation of issues in Intercom conversations and more! We hope these new features have 
+been valuable to your workflow.
+
+Finally, we would like to take the opportunity to thank you for your trust, support and feedback that 
+has made Intercom for Jira what it is today. We look forward to continue working with you in the 
+coming year. 
+
+
 ## Removal: *issue reporter email* contact source for Intercom Issue Panel
 
-12 December 2017 
+**12 December 2017** 
 
 In the Intercom Issue Panel settings you are able to choose whether Intercom contacts 
 should be shown based on linked conversations or the issue reporter's email. We believe 
