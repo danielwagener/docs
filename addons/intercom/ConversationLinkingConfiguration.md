@@ -20,14 +20,14 @@ page. To open it
 1. In the left sidebar, click on **Intercom integration**.
 1. On the page switch to the **Conversation Linking** tab.
 
-The following screenshot shows the Conversation Linking configuration with all
-features enabled. See below on how the individual settings work.
+The following screenshot shows the Conversation Linking configuration. See below 
+on how the individual settings work.
 
 ![Linked Conversation Configuration](/assets/addons/intercom/ConversationLinkingConfiguration.png)
 
 ## Enable/Disable Conversation Linking
                                                              
-By enabling/disabling the toggle button next to the Conversation Linking title
+By enabling/disabling the toggle button * Enable Conversation Linking*
 you can enable/disable the whole conversation linking feature.
 
 This is useful if you don't want the add-on to post to your conversations even
@@ -48,7 +48,7 @@ for Jira to post notifications. You can choose one or more of the following even
 For each of these events you can decide whether you would like to re-open closed 
 Intercom conversations or not.
 
-> **[info] Workflow Post Function: Notify Intercom Conversations**
+> **[info] Notify on specific issue transition using Workflow Post Function**
 >
 > If you would like to send notifications on issue transition and have fine-grained
 > control over when notifications are sent and when conversations are re-opened,

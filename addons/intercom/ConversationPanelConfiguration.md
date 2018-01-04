@@ -1,4 +1,4 @@
-# Intercom Issue Panel Configuration
+# Conversation Panel Configuration
 
 Once you have an authorized Intercom Connection you have a bunch of configuration
 options available to tailor-fit the add-on's behaviour and features to your needs.
@@ -8,33 +8,19 @@ options available to tailor-fit the add-on's behaviour and features to your need
 > * [Authorized Intercom Connection](GettingStarted.md)
 > * [Jira _Administer projects_ Permission](https://confluence.atlassian.com/adminjiracloud/managing-project-permissions-776636362.html)
 
-## Enable/Disable Intercom Issue Panel
+## Enable/Disable Conversation Panel
                                                              
-By enabling/disabling the toggle button next to the Intercom Issue Panel title
-you can enable/disable the whole feature.
+By enabling/disabling the toggle button *Enable Conversation Panel* you can 
+enable/disable the whole feature.
 
-This is useful if you don't want the add-on to render the Intercom panel on your
+This is useful if you don't want the add-on to render the Conversation panel on your
 Jira issue page.
-
-## Configure Contact Source
-
-You can specify how Intercom for Jira fetches Contacts. Choose between 
-**Linked conversations** or **Issue reporter's email**.
-
-With **Linked conversations** selected, Intercom for Jira will search your issue
-for conversation URLs ([Linked Conversations](ConversationLinking.md)) and
-extract the associated Intercom Users/Leads from those. The resulting Intercom
-Contacts will be shown on the panel.
-
-If you select **Issue reporter's email** the issue reporter's email address will
-be matched against Intercom Users and Leads. Matching Intercom Contacts will
-be shown on the panel. 
 
 ## Configure Visible Fields
 
 This setting allows you to configure visible fields for Intercom Users and Leads.
-Visible fields will show up on the [Intercom Panel](IntercomIssuePanel.md) in 
-the order defined. In addition to *Intercom standard fields* you can also 
+Visible fields will show up when rendering users in the [Conversation Panel](ConversationPanel.md) 
+in the order defined. In addition to *Intercom standard fields* you can also 
 configure [custom attributes](#custom-attributes).
 
 * [Add Field to Visible Fields](#add-field-to-visible-fields)

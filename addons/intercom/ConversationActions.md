@@ -1,5 +1,7 @@
 # Conversation Actions
 
+<img class="max-width-50" src="/assets/addons/intercom/ConversationActions.jpeg"/>
+
 Intercom conversation actions allow your Intercom teams to run actions in Jira 
 without having to leave Intercom and without having to have a Jira account. This page walks you 
 through the available conversation actions and illustrates how to use them.

@@ -1,19 +1,21 @@
-# <img class="product-header" src="/assets/addons/intercom/Header.jpg"/>
+# <img class="img-border" src="/assets/addons/intercom/Header.jpg"/>
 
 Link your Intercom conversations to Jira issues with [Intercom for Jira](https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview).
 
 Intercom for Jira allows you to set up a seamless process from [Intercom](https://www.intercom.com/)
 conversations to Jira issue processing and back. Empower your customer service team to provide 
-excellent customer communication by [linking Jira issues to Intercom conversations](ConversationLinking.md).
+excellent customer communication by [linking Intercom conversations to Jira issues](ConversationLinking.md).
 Updates on issues can trigger re-opening of closed Intercom conversations so your 
 team knows instantly when it's time to get back to the customer.
 
 With [conversation actions](ConversationActions.md) your Intercom team can create new Jira issues 
 or link existing ones from within any Intercom conversation, without ever having to leave Intercom.
 
-Additionally see Customers associated with Intercom Conversations right inside Jira or 
-Jira Service Desk without having to leave the current context. And if 
-your workflow requires you to change systems, Intercom is just one click away.
+Additionally see linked Intercom conversations and their respective users right inside Jira without 
+having to leave the current context. And if your workflow requires you to change systems, Intercom 
+is just one click away.
+
+[Let's get started](GettingStarted.md)
 
 <a target="_blank" href="https://marketplace.atlassian.com/plugins/io.toolsplus.atlassian.connect.jira.intercom/cloud/overview"><img src="/assets/addons/VendorBadge.png" height=50/></a>
 
@@ -21,9 +23,7 @@ your workflow requires you to change systems, Intercom is just one click away.
 
 * [Conversation Linking](ConversationLinking.md)
 * [Conversation Actions](ConversationActions.md)
-* [Intercom Issue Panel](IntercomIssuePanel.md)
-
-[Let's get started](GettingStarted.md)
+* [Conversation Panel](ConversationPanel.md)
  
 ### Supported Products
 

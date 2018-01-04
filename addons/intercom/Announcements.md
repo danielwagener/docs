@@ -1,8 +1,7 @@
 # Announcements
 
 On this page we will publish important notices related to Intercom for Jira. Please subscribe to 
-future updates by leaving your email address below or come back once in a while to check on the 
-latest updates.
+future updates below or come back once in a while to check on the latest updates.
 
 <div id="mc_embed_signup">
     <form action="https://toolsplus.us16.list-manage.com/subscribe/post?u=86259383cdca3014501f79098&amp;id=4fabaa3a90" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -31,7 +30,7 @@ ToolsPlus is adjusting our pricing for Intercom for Jira to more accurately refl
 from the integration and to enable us to continue delivering new features and improvements.
 
 Existing customers and evaluators will continue to benefit from our current price until March 1st 2018. The 
-price change will only affect their payment schedule after March 1st.* 
+price change will only affect their payment schedule after March 1st. 
 
 Here is the new monthly pricing (USD):
 
@@ -53,13 +52,13 @@ has made Intercom for Jira what it is today. We look forward to continue working
 coming year. 
 
 
-## Removal: *issue reporter email* contact source for Intercom Issue Panel
+## Removal: *issue reporter email* contact source for Conversation Panel
 
 **12 December 2017** 
 
-In the Intercom Issue Panel settings you are able to choose whether Intercom contacts 
+In the Conversation Panel settings you are able to choose whether Intercom contacts 
 should be shown based on linked conversations or the issue reporter's email. We believe 
-that Intercom contacts on the Intercom Issue Panel are almost exclusively shown based on 
+that Intercom contacts on the Conversation Panel are almost exclusively shown based on 
 linked conversations (which is the default configuration for new installations). To our 
 knowledge there is no use case for rendering contacts based on the issue reporter's email 
 address.
@@ -70,7 +69,7 @@ address.
 Remove *issue reporter email* as a contact source from Intercom settings.
 
 ### How does this change affect you?
-* If you are using *linked conversations* as contact source for your Intercom Issue Panel 
+* If you are using *linked conversations* as contact source for your Conversation Panel 
 (this is the default) you won't be affected by this change.
 * If you are using *issue reporter's email* as contact source the add-on will automatically 
 fallback to linked conversations setting.

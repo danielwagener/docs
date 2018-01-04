@@ -1,5 +1,7 @@
 # Conversation Linking
 
+<img class="max-width-50" src="/assets/addons/intercom/ConversationLinking.jpeg"/>
+
 Intercom conversation linking allows your team to associate Intercom conversations with
 Jira issues. Linked conversations get updates from associated Jira issues posted 
 as a [Note](https://docs.intercom.com/responding-to-users-and-visitors/work-as-a-team/loop-teammates-into-conversations).
@@ -32,7 +34,7 @@ Notifications can be posted for the following Jira issue events:
 * issue commented
 
 Which of these notifications should be posted and when conversations are re-opened
-is fully configurable. See the [here](ConversationLinkingConfiguration.md) on how 
+is fully configurable. [See here](ConversationLinkingConfiguration.md) on how 
 to tweak it.
 
 ### Link Intercom Conversation to Jira Issue

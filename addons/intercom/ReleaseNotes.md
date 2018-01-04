@@ -2,34 +2,56 @@
 
 > **[success] Latest Release**
 >
-> ### 1.1.4 (Marketplace Version: **1.2.7-AC** )
+> ### 1.2.0 (Marketplace Version: **1.2.8-AC** )
 >
-> Release Date: **2017-12-06**
+> Release Date: **2018-01-03**
 >
 > **New Features**  
->  * New [conversation actions](ConversationActions.md) to create and link Jira issues
->    directly from Intercom conversations.
->
-> **Improvements**  
->  * Show a pop-up message to inform users to reload the Jira page if connection to 
->    add-on server has expired.
->  * Change Intercom configuration page to a Tab layout instead of a single page to make
->    it easier to navigate different feature configurations. 
+>  * Intercom Issue Panel is now [Conversation Panel](ConversationPanel.md). The panel now
+>    shows linked conversations and their respective Intercom user.
 >
 > **Bug Fixes**  
->  * Fix a problem where Intercom feature toggles did not actually reflect the correct on/off
->    state.
+>  * Fix a problem where lead name is not rendered when there is only a pseudonym available.
 >
 
 ## Past Releases
+
+### 1.1.5 (Marketplace Version: **1.2.7-AC** )
+
+Release Date: **2017-12-07**
+
+**Bug Fixes**  
+ * Fix a problem where conversation actions fail because of inconsistent data format.
+
+
+### 1.1.4 (Marketplace Version: **1.2.7-AC** )
+
+Release Date: **2017-12-06**
+
+**New Features**  
+ * New [conversation actions](ConversationActions.md) to create and link Jira issues
+   directly from Intercom conversations.
+
+**Improvements**  
+ * Show a pop-up message to inform users to reload the Jira page if connection to 
+   add-on server has expired.
+ * Change Intercom configuration page to a Tab layout instead of a single page to make
+   it easier to navigate different feature configurations. 
+
+**Bug Fixes**  
+ * Fix a problem where Intercom feature toggles did not actually reflect the correct on/off
+   state.
+
+
+---
 
 ### 1.1.3 (Marketplace Version: **1.2.6-AC** )
 
 Release Date: **2017-09-15**
 
 **New Features**  
- * New visible field [configuration to add Intercom custom attributes](IntercomIssuePanelConfiguration.md#custom-attributes)
-   to Intercom Issue Panel.
+ * New visible field [configuration to add Intercom custom attributes](ConversationPanelConfiguration.md#custom-attributes)
+   to Conversation Panel.
 
 ---
 
@@ -48,10 +70,10 @@ Release Date: **2017-09-11**
 Release Date: **2017-09-11**
 
 **New Features**  
- * Intercom issue panel can now **show Intercom contacts extracted from linked
+ * Conversation panel can now **show Intercom contacts extracted from linked
    Intercom conversations**.
  * New **contact source configuration** that allows to control whether Intercom
-   issue panel shows Intercom contacts based on linked conversations or based
+   conversation panel shows Intercom contacts based on linked conversations or based
    on issue reporter's email address.
 
 **Removals**
@@ -62,7 +84,7 @@ Release Date: **2017-09-11**
 
 > **[info] Note**
 >
-> Existing users who have Intercom issue panel enabled might see the 
+> Existing users who have Conversation panel enabled might see the 
 > panel disappear after the update. To fix this simply go to to the 
 > Intercom configuration page and toggle the feature switch to *off* and 
 > then *on* again.
