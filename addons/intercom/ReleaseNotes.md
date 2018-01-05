@@ -2,19 +2,31 @@
 
 > **[success] Latest Release**
 >
-> ### 1.2.0 (Marketplace Version: **1.2.8-AC** )
+> ### 1.2.1 (Marketplace Version: **1.2.8-AC** )
 >
-> Release Date: **2018-01-03**
+> Release Date: **2018-01-05**
 >
 > **New Features**  
->  * Intercom Issue Panel is now [Conversation Panel](ConversationPanel.md). The panel now
->    shows linked conversations and their respective Intercom user.
->
-> **Bug Fixes**  
->  * Fix a problem where lead name is not rendered when there is only a pseudonym available.
+>  * Simplified configuration for [visible fields:](ConversationPanelConfiguration.md#configure-visible-fields) 
+>    Custom and standard attributes can now be configured through the same select box and get fetched
+>   directly from your Intercom app. 
 >
 
 ## Past Releases
+
+### 1.2.0 (Marketplace Version: **1.2.8-AC** )
+
+Release Date: **2018-01-03**
+
+**New Features**  
+ * Intercom Issue Panel is now [Conversation Panel](ConversationPanel.md). The panel now
+   shows linked conversations and their respective Intercom user.
+
+**Bug Fixes**  
+ * Fix a problem where lead name is not rendered when there is only a pseudonym available.
+   
+---
+
 
 ### 1.1.5 (Marketplace Version: **1.2.7-AC** )
 
@@ -23,6 +35,7 @@ Release Date: **2017-12-07**
 **Bug Fixes**  
  * Fix a problem where conversation actions fail because of inconsistent data format.
 
+---
 
 ### 1.1.4 (Marketplace Version: **1.2.7-AC** )
 
